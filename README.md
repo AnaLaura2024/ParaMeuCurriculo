@@ -1,3 +1,5 @@
+
+![alt text](IMGH-1.png)
 ## Como foi utilizado
 O projeto do jogo da velha em C# foi desenvolvido como um aplicativo de console, permitindo que dois jogadores se enfrentem.
 O usuário interage digitando as coordenadas onde deseja colocar seu símbolo (X ou O), e o jogo prossegue até que um jogador vença ou ocorra um empate.
